@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  padding: 14% 6% 0% 4%;
+  padding: 5% 5% 0% 5%; 
   font-size: 20px;
   line-height: 30px;
   display: flex;
@@ -89,7 +89,7 @@ a:hover {
 
 @media only screen and (min-width: 1281px) {
   body {
-  padding: 14% 6% 0% 4%;
+  padding: 5% 5% 0% 5%;
   font-size: 25px;
   line-height: 1.5em;
   display: flex;
