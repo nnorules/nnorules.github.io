@@ -1,0 +1,86 @@
+body {
+  padding: 1% 8% 0% 6%;
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: #1f1f1f;
+  font-size: 5vw;
+  line-height: 1.5;
+  display: flex;
+  flex-direction: column;
+}
+
+
+h1 {
+	font-size: 8.5vw;
+	line-height: 1.2;
+	margin: 3em 0 1em 0;
+}
+
+
+h2 {
+	font-size: 7vw;
+	line-height: 1.2;
+	margin: 3.5em 0 .7em 0;
+}
+
+
+.h3 {
+	font-weight: bolder;
+	font-size: 5vw;
+	line-height: 1.5;
+	margin: 2em 0 .70em 0;
+}
+
+
+p {
+	margin: 0 0 .5em 0;
+}
+
+
+ol{
+	padding-left: 7vw;
+}
+
+li {
+	margin-bottom: .5em;
+}
+
+
+a {
+	border-color: #487b95;
+	border-color: rgba(12, 79, 114, 0.2);
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	text-decoration: none;
+	color: #065580;
+}
+
+a:hover {
+	border-color: rgba(226,0,22,.1);
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	text-decoration: none;
+	color: rgb(227,0,22);
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  padding: 9% 0% 2% 0%;
+}
+
+
+.caption {
+	font-size: 5vw;
+	line-height: 1.1;
+	margin-bottom: 1em;
+}
+
+.PE {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 0 0 5em 0;
+}
