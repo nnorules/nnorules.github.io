@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Allow: /karmic_pies.html
+Disallow: /PE1.png
+Disallow: /PE2.png
